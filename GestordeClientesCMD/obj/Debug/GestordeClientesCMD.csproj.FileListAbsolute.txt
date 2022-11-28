@@ -1,0 +1,7 @@
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\bin\Debug\GestordeClientesCMD.exe.config
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\bin\Debug\GestordeClientesCMD.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\bin\Debug\GestordeClientesCMD.pdb
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\obj\Debug\GestordeClientesCMD.csprojAssemblyReference.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\obj\Debug\GestordeClientesCMD.csproj.CoreCompileInputs.cache
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\obj\Debug\GestordeClientesCMD.exe
+C:\TI Academy\Aulas C_Sharp\Ideias\GestordeClientesCMD\GestordeClientesCMD\obj\Debug\GestordeClientesCMD.pdb
